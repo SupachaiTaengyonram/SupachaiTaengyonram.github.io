@@ -4,12 +4,10 @@
 
 #My Lecture Note
 
-[!NOTE]
-For Class OOP
+[!NOTE]For Class OOP
 
 
-[!IMPONTANT]
-Supachai Taengyonram
+[!IMPONTANT]Supachai Taengyonram
 
 
 ##python
