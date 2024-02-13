@@ -1,4 +1,4 @@
-[banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPu-3MTjDOuPRtRS60mhS_bNt45ey0F9SQw&usqp=CAU)
+![banner](https://res.klook.com/image/upload/q_85/c_fill,w_650,h_345/v1676628452/blog/otddawrc8xqgih9uw7n0.jpg)
 #My Lecture Note
 
 For Class OOP
