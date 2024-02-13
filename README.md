@@ -3,13 +3,16 @@
 
 
 #My Lecture Note
+
 [!NOTE]
 For Class OOP
+
 
 [!IMPONTANT]
 Supachai Taengyonram
 
+
 ##python
 
 
-print('Pond')
+print('Nick Name Pond')
