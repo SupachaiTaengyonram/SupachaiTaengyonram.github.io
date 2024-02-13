@@ -1,5 +1,5 @@
 #My Lecture Note
 
-For class OOP
+For Class OOP
 
 Supachai Taengyonram
