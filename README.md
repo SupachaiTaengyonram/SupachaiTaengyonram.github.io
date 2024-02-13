@@ -10,6 +10,5 @@ Supachai Taengyonram
 
 ##python
 
-'''python
+
 print('Pond')
-'''
